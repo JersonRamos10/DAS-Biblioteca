@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formgestiones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formgestiones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formgestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formgestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formgraficos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formgraficos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\MY PC\\source\\repos\\Biblioteca\\biblioteca\\formgestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formgestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\bibliotecadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\bibliotecadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\MY PC\\source\\repos\\Biblioteca\\biblioteca\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\MY PC\\source\\repos\\Biblioteca\\biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formgraficos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formgraficos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\MY PC\\source\\repos\\Biblioteca\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formlibros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formlibros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|c:\\users\\my pc\\source\\repos\\biblioteca\\biblioteca\\formgraficos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formgraficos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\MY PC\\source\\repos\\Biblioteca\\biblioteca\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22A9E94C-4EBF-4152-AD8B-5152C74A585B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 216,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormGraficos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGraficos.Designer.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormGraficos.Designer.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGraficos.Designer.cs",
+              "RelativeToolTip": "Biblioteca\\FormGraficos.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:49:19.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormGraficos.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGraficos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormGraficos.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGraficos.cs",
+              "RelativeToolTip": "Biblioteca\\FormGraficos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:19:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BibliotecaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\BibliotecaDatos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\BibliotecaDatos.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\BibliotecaDatos.cs",
+              "RelativeToolTip": "Biblioteca\\BibliotecaDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:45:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Biblioteca\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T02:44:00.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form2.Designer.cs",
+              "RelativeToolTip": "Biblioteca\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T02:37:05.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGestiones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGestiones.Designer.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormGestiones.Designer.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGestiones.Designer.cs",
+              "RelativeToolTip": "Biblioteca\\FormGestiones.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvwUBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:47:43.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormGestiones.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGestiones.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormGestiones.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGestiones.cs",
+              "RelativeToolTip": "Biblioteca\\FormGestiones.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAUwLgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:33:55.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Formlibros.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Formlibros.Designer.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Formlibros.Designer.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Formlibros.Designer.cs",
+              "RelativeToolTip": "Biblioteca\\Formlibros.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:27:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formlibros.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Formlibros.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Formlibros.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Formlibros.cs",
+              "RelativeToolTip": "Biblioteca\\Formlibros.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAgwEEBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:02:55.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormUsuario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormUsuario.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormUsuario.cs",
+              "RelativeToolTip": "Biblioteca\\FormUsuario.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAkwFcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:38:22.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "RelativeToolTip": "Biblioteca\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:40:16.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAACISAAAAAAAAAAAWwP8SAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-12T23:15:54.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form2.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form2.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form2.cs",
+              "RelativeToolTip": "Biblioteca\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:49:45.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form1.Designer.cs",
+              "RelativeToolTip": "Biblioteca\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:16:02.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormGraficos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGraficos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormGraficos.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGraficos.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\FormGraficos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:33:29.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormGestiones.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGestiones.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormGestiones.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormGestiones.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\FormGestiones.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:31:24.305Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Formlibros.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Formlibros.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Formlibros.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Formlibros.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\Formlibros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:55:19.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormUsuario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormUsuario.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\FormUsuario.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\FormUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:28:13.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form2.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form2.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form2.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:48:01.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:25:07.78Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
